@@ -14,3 +14,13 @@
 ## Run app
 
 ### `yarn start`
+
+## Running application screen
+
+### When click "Near Me" button, you can see the below image.
+
+![plot](./nearme.png)
+
+### When click "Search" button, you can see the below image
+
+![plot](./search-list.png)
